@@ -1,0 +1,26 @@
+[
+  {
+    "treaty_id": "ECO-ETLS-01",
+    "treaty_name": "ECOWAS Trade Liberalization Scheme",
+    "focus_area": "Regional Trade",
+    "member_state": "Nigeria",
+    "compliance_status": "Fully Integrated",
+    "last_assessment_year": 2026
+  },
+  {
+    "treaty_id": "ECO-ETLS-01",
+    "treaty_name": "ECOWAS Trade Liberalization Scheme",
+    "focus_area": "Regional Trade",
+    "member_state": "Mali",
+    "compliance_status": "Partially Integrated",
+    "last_assessment_year": 2025
+  },
+  {
+    "treaty_id": "ECO-PROT-02",
+    "treaty_name": "Protocol on Free Movement of Persons",
+    "focus_area": "Cross-Border Migration",
+    "member_state": "Ghana",
+    "compliance_status": "Fully Integrated",
+    "last_assessment_year": 2026
+  }
+]
