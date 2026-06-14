@@ -1,0 +1,6 @@
+incident_id,country,location,date,risk_level,incident_type,peacekeeping_deployed
+001,Nigeria,Lake Chad Basin,2026-01-15,High,Cross-Border Border Incursion,Yes
+002,Mali,Mopti Region,2026-02-10,Critical,Regional Instability,Yes
+003,Ghana,Tema Port,2026-03-01,Low,Maritime Maritime Smuggling,No
+004,Burkina Faso,Est Region,2026-04-12,Critical,Resource Conflict,Yes
+005,Benin,Northern Border,2026-05-18,Medium,Cross-Border Border Incursion,No
